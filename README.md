@@ -7,4 +7,4 @@ Quantum Computing: Application-tailored full-stack optimization, variational qua
 
 Computational Infrastructure: I leverage machine learning for intelligent system optimization and focus on accelerating computational approaches for scientific applications, with particular attention to quantum-classical integration challenges.
 
-Through this interdisciplinary approach, I aim to bridge theoretical quantum advantages with practical implementations on near-term quantum hardware.
+Through this interdisciplinary approach, I aim to bridge theoretical quantum advantages with practical implementations on near-term and fault-tolerant quantum hardware.
